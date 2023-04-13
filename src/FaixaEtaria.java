@@ -27,5 +27,4 @@ public class FaixaEtaria {
     public boolean ehAbaixo(FaixaEtaria ehAbaixo) {
         return false;
     }
-
 }

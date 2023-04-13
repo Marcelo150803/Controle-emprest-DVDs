@@ -2,9 +2,7 @@
 public class Amigo {
 
     private long numTelefone;
-
     private String email;
-
     private String endereco;
 
     public Amigo(long numTelefone, String email, String endereco) {
@@ -36,5 +34,4 @@ public class Amigo {
     public void setEndereco(String endereco) {
         this.endereco = endereco;
     }
-
 }

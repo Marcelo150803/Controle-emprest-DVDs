@@ -25,5 +25,4 @@ public class Emprestimo {
     public void setDataDevolver(Date dataDevolver) {
         this.dataDevolver = dataDevolver;
     }
-
 }

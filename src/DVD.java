@@ -23,5 +23,4 @@ public class DVD {
     public void setSinopse(String sinopse) {
         this.sinopse = sinopse;
     }
-
 }

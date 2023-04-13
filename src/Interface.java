@@ -11,5 +11,4 @@ public interface Interface {
     public void leEmprestimo();
 
     public void alertaFaixaEtaria(Amigo alertaFaixaEtariaA, DVD alertaFaixaEtariaD);
-
 }
