@@ -1,6 +1,7 @@
 package emprestdvd;
 
 public class Genero {
+
     private String descricao;
 
     public Genero(String descricao) {

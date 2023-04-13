@@ -1,6 +1,7 @@
 package emprestdvd;
 
 class DVD {
+
     private String titulo;
     private String sinopse;
 
@@ -24,5 +25,5 @@ class DVD {
     public void setSinopse(String sinopse) {
         this.sinopse = sinopse;
     }
-    
+
 }

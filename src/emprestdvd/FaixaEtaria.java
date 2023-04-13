@@ -1,6 +1,7 @@
 package emprestdvd;
 
 public class FaixaEtaria {
+
     private int de;
     private int ate;
 
@@ -24,10 +25,9 @@ public class FaixaEtaria {
     public void setAte(int ate) {
         this.ate = ate;
     }
-    
-    public boolean ehAbaixo(FaixaEtaria ehAbaixo){
+
+    public boolean ehAbaixo(FaixaEtaria ehAbaixo) {
         return false;
     }
-    
-}
 
+}

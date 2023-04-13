@@ -3,6 +3,7 @@ package emprestdvd;
 import java.util.Date;
 
 public class Emprestimo {
+
     private Date dataEmprestimo;
     private Date dataDevolver;
 
@@ -26,5 +27,5 @@ public class Emprestimo {
     public void setDataDevolver(Date dataDevolver) {
         this.dataDevolver = dataDevolver;
     }
-    
+
 }

@@ -1,6 +1,7 @@
 package emprestdvd;
 
 class Amigo {
+
     private long numTelefone;
 
     public long getNumTelefone() {
@@ -26,6 +27,5 @@ class Amigo {
         this.email = email;
         this.endereco = endereco;
     }
-    
-    
+
 }
